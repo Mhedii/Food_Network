@@ -1,9 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
 }
 h1{
-    font-weight: 900;
+    font-weight: 800;
     font-size: 60px;
     color:rgb(87,87,87);
     
@@ -11,7 +12,7 @@ h1{
     
 }
 p{
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 500;
     padding-bottom: 30px;
     color: gray;
@@ -24,6 +25,7 @@ p{
     padding-left: 6%;
     padding-top: 8%;
     
+    margin-bottom: 100px;
     
 
 }
@@ -31,16 +33,17 @@ p{
     width: 50%;
     padding: 15px;
     font-size: 30px;
-    padding-top: 10%;
+    
+    
     
     
 }
-.intro-picture{
-    width: 80%;
+.first-intro img{
+    width: 100%;
     
 
 }
-.first-button{
+.button{
     background-image: linear-gradient(red,black);
     color: white;
     text-decoration: none;
@@ -48,3 +51,50 @@ p{
     border-radius: 25px;
     font-weight: 700;
 }
+.second-section{
+    background-image: url(images/shapes/2nd_section_bg.png);
+    background-repeat: no-repeat;
+    display: flex; 
+
+    background-position:center;
+    background-size:cover;
+    
+    margin-bottom: 100px;
+    
+}
+
+h2{
+    padding-top: 15%;
+    
+    
+    color:rgb(87,87,87);
+    font-weight: 700;
+}
+h4{
+    padding-top: 10px;
+    padding-bottom: 15%;
+    
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.about_me{
+    width: 40%;
+    font-size: 30px; 
+    padding-left: 8%;
+    
+   
+    
+}
+
+.about_me img{
+   
+    
+    width: 60%;
+    padding-left: 15%;
+    padding-top: 60px;
+    
+    
+    
+}
+
