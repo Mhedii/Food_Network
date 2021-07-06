@@ -60,6 +60,7 @@ p{
     background-size:cover;
     
     margin-bottom: 100px;
+
     
 }
 
@@ -97,4 +98,96 @@ h4{
     
     
 }
+.Last_section{
+    margin: 0;
+    display: flex;
+    
+}
+.recipe{
+    padding-bottom: 15px;
+    text-align: center;
+    color:rgb(87,87,87);
+    font-weight: 700;
+    font-size: 40px;
 
+}
+.recipe_info{
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+.recipe_title{
+    font-size: 30px;
+    font-weight: 800;
+    color: black;
+
+}
+.title_info{
+    font-size: 20px;
+    font-weight: 300;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+    
+}
+.div1 img{
+    width: 100%;
+}
+.div2 img{
+    width: 100%;
+}
+.div3 img{
+    width: 100%;
+}
+.div1{
+    
+    margin-left: 5%;
+    text-align: justify;
+    padding: 2%;
+}
+.div2{
+    
+    margin-left: 5%;
+    text-align: justify;
+    padding: 2%;
+}
+.div3{
+    padding: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+}
+#div1{
+    box-shadow: 0px 5px 10px 10px gray;
+    
+    border-radius: 30px;
+}
+#div2{
+    box-shadow: 0px 5px 10px 10px gray;
+    
+    border-radius: 30px;
+}
+#div3{
+    box-shadow: 0px 5px 10px 10px gray;
+    
+    border-radius: 30px;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    
+}
+h2 span{
+    color: orange;
+    
+    
+}
+.lastline{
+    
+    color: white;
+}
